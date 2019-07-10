@@ -1,0 +1,43 @@
+
+body {
+
+background-color: #DEFCFF;
+
+}
+
+.text {
+  background-color: white;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  border: 2px solid;
+  color: #14397A;
+  font-family: 'Inconsolata', monospace;
+  border-radius: 20px;
+
+}
+
+.photos {
+  display: flex;
+justify-content: center;
+flex-flow: row wrap;
+}
+
+img{
+height:  200px;
+width: auto;
+margin: 5px;
+border: 2px solid white;
+border-radius: 3%;
+}
+
+p  {
+  padding: 0px 15px;
+}
+
+h1 {
+color: #0F2C5E;
+
+}
